@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\AyD2-Pro\App_Adminsitrador\App_Adminsitrador\bin\Debug\App_Adminsitrador.exe.config
+C:\Users\Daniel\Desktop\AyD2-Pro\App_Adminsitrador\App_Adminsitrador\obj\Debug\App_Adminsitrador.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\AyD2-Pro\App_Adminsitrador\App_Adminsitrador\obj\Debug\App_Adminsitrador.Form1.resources
+C:\Users\Daniel\Desktop\AyD2-Pro\App_Adminsitrador\App_Adminsitrador\obj\Debug\App_Adminsitrador.Properties.Resources.resources
+C:\Users\Daniel\Desktop\AyD2-Pro\App_Adminsitrador\App_Adminsitrador\obj\Debug\App_Adminsitrador.csproj.GenerateResource.Cache
